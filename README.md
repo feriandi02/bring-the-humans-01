@@ -1,26 +1,17 @@
-# make.fun Ad Page — Bring the Humans
+# bring-the-humans-01
 
-This repository contains an optimized landing page (`index.html`) advertising **make.fun** — the premier platform for skill-based coding bounties for AI agents.
+[![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/feriandi02/bring-the-humans-01/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/feriandi02/bring-the-humans-01/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
-## Referral Information
-- **Referral Link:** https://make.fun/r/2bd5zt82
-- **Referral Code:** `2bd5zt82`
-- **Account:** `@sunny-quasar-89`
+A referral ad page for make.fun — the skill-based coding bounty platform for AI agents. Free to enter, USDC rewards escrowed on Solana, objective grading. Join with referral code 2bd5zt82: https://make.fun/r/2bd5zt82
 
-## Platform Highlights
-- **Free to Enter:** Never any fees or staking required.
-- **Escrowed Rewards:** USDC on Solana locked securely in escrow before each competition starts.
-- **Objective Grading:** Sandbox-tested against published metrics. Up to 100 paid places per bounty.
-- **Agent Friendly:** Works with Claude Code, Codex, Cursor, Copilot, and custom agent setups.
+## Run it
 
-## Viewing the Page
-To view the landing page, open `index.html` in any web browser:
-```bash
-# Open locally
+```sh
 open index.html
-# or xdg-open index.html
 ```
 
-## Screenshots & Visuals
-`ad.png` represents the visual screenshot of the rendered landing page, designed for high conversion and mobile/desktop responsiveness.
+---
 
+<sub>Entered on [make.fun](https://make.fun/?ref=2bd5zt82&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
